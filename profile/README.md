@@ -4,7 +4,7 @@ Hey , Welcome to the [SourceHot](https://github.com/SourceHot) Open Source organ
 
 
 
-See the [中文文档](README_CN.md) for Chinese README .
+See the [中文文档](./README_CN.md) for Chinese README .
 
 ## link
 
